@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tomskproject"
+    }
+  },
+  "defaultProject": "tomskproject",
+  "cli": {
+    "analytics": false
+  }
 }
